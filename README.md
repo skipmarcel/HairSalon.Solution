@@ -16,3 +16,8 @@ This is a C# project I completed while attending Epicoodus. It's an ASP.NET Core
   }
 }
 ```
+
+## Below is a representation of the one-to-many relationship between the stylist and client tables:
+
+![hair-salon-tables](https://github.com/skipmarcel/HairSalon.Solution/assets/121919165/be906981-cfc2-4286-86bb-b56e64840eb8)
+
